@@ -1,1 +1,1 @@
-# dataAnalysis
+# Itmo dataAnalysis course
